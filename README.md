@@ -30,4 +30,8 @@ JavaScript: DOM manipulation for cart logic and UI feedback.
 
 Google Fonts & Bootstrap Icons: For premium typography and iconography.
 
-📸 website Screenshots  https://github.com/puneetkumawat689-lang/Adil-Qadri-Perfume/blob/main/Screenshot%202026-02-03%20194641.png
+# 📸 website Screenshots 
+
+https://github.com/puneetkumawat689-lang/Adil-Qadri-Perfume/blob/main/Screenshot%202026-02-03%20194641.png
+https://github.com/puneetkumawat689-lang/Adil-Qadri-Perfume/blob/main/Screenshot%202026-02-03%20194617.png
+     
