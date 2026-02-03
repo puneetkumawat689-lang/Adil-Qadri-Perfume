@@ -31,4 +31,7 @@ Google Fonts & Bootstrap Icons: For premium typography and iconography.
 
 https://github.com/puneetkumawat689-lang/Adil-Qadri-Perfume/blob/main/Screenshot%202026-02-03%20194641.png
 https://github.com/puneetkumawat689-lang/Adil-Qadri-Perfume/blob/main/Screenshot%202026-02-03%20194617.png
+
+# 👤 Author
+Puneet 
      
